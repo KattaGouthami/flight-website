@@ -67,6 +67,7 @@ li:hover{
     flex-direction: column;
     flex-wrap: wrap;
 }
+
 .services{
     display: flex;
     flex-wrap: wrap;
@@ -80,6 +81,13 @@ li:hover{
     max-width: 300px;
     border: 1px solid black;
     border-radius: 5px;
+    cursor: pointer;
+}
+p{
+ 
+    text-align: center;
+ 
+
 }
 .aboutus{
     padding-top: 5px;
